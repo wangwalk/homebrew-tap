@@ -1,12 +1,12 @@
 class Inotes < Formula
   desc "Manage Apple Notes from the terminal"
   homepage "https://github.com/wangwalk/inotes"
-  version "0.1.1"
+  version "0.1.2"
   license "MIT"
 
   on_macos do
-    url "https://github.com/wangwalk/inotes/releases/download/v0.1.1/inotes-0.1.1-universal-apple-darwin.tar.gz"
-    sha256 "aa6b40bb47b8a65de35d0995da67df455f74fb13da571cab6e8f1cb76be8fa36"
+    url "https://github.com/wangwalk/inotes/releases/download/v0.1.2/inotes-0.1.2-universal-apple-darwin.tar.gz"
+    sha256 "62b7bf338cff6c633414297a1537ab32713273ec6c8047e16364f0d747ae8d28"
   end
 
   depends_on :macos
